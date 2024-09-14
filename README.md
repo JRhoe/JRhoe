@@ -7,7 +7,7 @@ Frontend Developer
 I am a front-end developer with strong problem-solving skills and the ability to think creatively and outside the box. My consulting background has honed my ability to approach challenges from multiple perspectives and devise innovative solutions.
 
 * 🌍  I'm based in Santa Clara, CA
-* 🖥️  See my portfolio at [jrhoe.github.io/E-Portfolio/](http://jrhoe.github.io/E-Portfolio/)
+* 🖥️  See my portfolio at [https://jamesrhoe.com/](https://jamesrhoe.com/)
 * ✉️  You can contact me at [jamesrhoe1@gmail.com](mailto:jamesrhoe1@gmail.com)
 
 ### Skills
