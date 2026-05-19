@@ -1,14 +1,14 @@
 Hi 👋 My name is James Rhoe
 ===========================
 
-Frontend Developer
+Full-stack Developer
 ------------------
 
-I am a front-end developer with strong problem-solving skills and the ability to think creatively and outside the box. My consulting background has honed my ability to approach challenges from multiple perspectives and devise innovative solutions.
+I am a full-stack developer with strong problem-solving skills and the ability to think creatively and outside the box. My consulting background has honed my ability to approach challenges from multiple perspectives and devise innovative solutions.
 
-* 🌍  I'm based in Santa Clara, CA
-* 🖥️  See my portfolio at [https://jamesrhoe.com/](https://jamesrhoe.com/)
-* ✉️  You can contact me at [jamesrhoe1@gmail.com](mailto:jamesrhoe1@gmail.com)
+* 🌍  I'm based in San Jose, CA
+* 🖥️  See my website at [https://jamesrhoe.com/](https://jamesrhoe.com/)
+* ✉️  You can contact me at [contact@jamesrhoe.com](mailto:contact@jamesrhoe.com)
 
 ### Skills
 
